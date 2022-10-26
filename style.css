@@ -35,7 +35,7 @@ main {
   background: radial-gradient(circle, rgba(85,100,117,1) 5%, rgba(45,39,41,1) 85%);
   height: 535px;
   margin: auto;
-
+ box-shadow: 20px 20px 60px #0c0c0caf;
 }
 
 .cracha > hr {
